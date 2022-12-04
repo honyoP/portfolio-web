@@ -7,7 +7,6 @@ export default class Document extends NextDocument {
     return(
       <Html lang="en">
         <Head>
-	  <title>Portfolio</title>
 	  <link rel="icon" href="/favicon.svg" />
         </Head>
         <body>

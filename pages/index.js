@@ -68,7 +68,7 @@ export default function Home() {
       </Section>
 
       <Section delay={0.1}>
-        <Box alignText="center" mt={30}>
+        <Box aligntext="center" mt={30}>
           <Text>    Tadeas is a freelance full-stack developer based in Czech Republic.
                 He has a passion for building and designing interesting projects</Text>
         </Box>
