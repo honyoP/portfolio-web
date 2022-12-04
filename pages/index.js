@@ -80,7 +80,7 @@ export default function Home() {
         <Heading as="h2" variant="section-title" size="md">What can I do?</Heading>
         <Text mb={3}>
           I&apos;m a fullstack developer, which means I can create both backend and frontend solutions
-          of projects. I&apos;m also proficient in deploying applications and maintaining servers running linux.
+          of projects. I&apos;m also proficient in deploying applications and maintaining servers running Linux.
         </Text>
         <Flex bgColor={useColorModeValue('#f4ede4', 'gray.900')} borderRadius="10px" justifyContent="center">
           <Box mt={4} ml={2}>
@@ -167,9 +167,6 @@ export default function Home() {
             <Heading as="h2" variant="section-title" size="md">My contacts</Heading>
             <List mt={2} mr={3} spacing={2}>
               <ListItem display="flex" align="center">
-                tran.tadeas@trancheon.com <IconMail />
-              </ListItem>
-               <ListItem display="flex" align="center">
                 tran.tadeas@trancheon.com <IconMail />
               </ListItem>
             </List>
