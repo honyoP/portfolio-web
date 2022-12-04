@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
   <ChakraProvider theme={theme}>
     <Navbar/>
     <Center>
-      <Text color="gray" position="fixed" bottom="0%">© {new Date().getFullYear()} Tadeas Tran. All Rights Reserved.</Text>
+      <Text color="gray" position="fixed" bottom="0">© {new Date().getFullYear()} Tadeas Tran. All rights reserved.</Text>
     </Center>
     <Component {...pageProps} />
   </ChakraProvider>
