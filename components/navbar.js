@@ -85,7 +85,7 @@ const Navbar = (props) => {
               <LinkItem href="/" path={path}>
                 About
               </LinkItem>
-              <LinkItem _target="_blank" href="https://github.com/Honyopynyoko/portfolio-web" path={path} display="inline-flex" alignItems="center" style={{gap:4}}>
+              <LinkItem _target="_blank" href="https://github.com/honyoP/portfolio-web" path={path} display="inline-flex" alignItems="center" style={{gap:4}}>
                 <IconBrandGithub size="20px"/> Source
               </LinkItem>
             </Stack>
@@ -113,7 +113,7 @@ const Navbar = (props) => {
                       </MenuItem>
                     </NextLink>
                     <MenuItem as={Link}>
-                      <a target="_blank" rel="noreferrer" href="https://github.com/Honyopynyoko/portfolio-web">
+                      <a target="_blank" rel="noreferrer" href="https://github.com/honyoP/portfolio-web">
                         View Source
                       </a>
                     </MenuItem>

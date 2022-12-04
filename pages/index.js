@@ -152,8 +152,8 @@ export default function Home() {
             <Heading as="h2" variant="section-title" size="md">My accounts</Heading>
             <List mt={2} ml={3} spacing={2}>
               <ListItem>
-                <Link href="https://github.com/Honyopynyoko" target="_blank" display="flex" align="center">
-                  <IconBrandGithub/>@Honyopynyoko
+                <Link href="https://github.com/honyoP" target="_blank" display="flex" align="center">
+                  <IconBrandGithub/>@honyoP
                 </Link>
               </ListItem>
               <ListItem>
