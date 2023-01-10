@@ -9,10 +9,8 @@ import {
   Divider,
   List,
   ListItem,
-  ListIcon,
   useColorModeValue,
   Link,
-  Button
 } from '@chakra-ui/react'
 
 import {
@@ -35,18 +33,12 @@ import {
   MongoIcon,
   NextIcon,
   PostgreIcon,
-  PSIcon,
   ReactIcon,
   RubyIcon,
   RubyOnRailsIcon,
   TSIcon,
-  WaveyBackground
 } from '../components/icons'
 
-import Head from 'next/head'
-
-import styles from '../styles/Home.module.css'
-import Navbar from '../components/navbar'
 import Section from '../components/section'
 
 export default function Home() {
@@ -167,7 +159,7 @@ export default function Home() {
             <Heading as="h2" variant="section-title" size="md">My contacts</Heading>
             <List mt={2} mr={3} spacing={2}>
               <ListItem display="flex" align="center">
-                tran.tadeas@trancheon.com <IconMail />
+                tran.tadeas@protonmail.com <IconMail />
               </ListItem>
             </List>
           </Box>

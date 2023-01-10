@@ -1,3 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Source code for the portfolio web hosted here: [link](https://www.tadeastran.me/)
 
-Empty README.md... sorry :)
+Written using Next.js, UI elemenets by Chakra-UI
