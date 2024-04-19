@@ -88,6 +88,9 @@ const Navbar = (props) => {
               <LinkItem href="/work" path={path}>
                 Work
               </LinkItem>
+	      <LinkItem href="https://inparlay.com/" path={path}>
+                Blog
+              </LinkItem>
               <LinkItem _target="_blank" href="https://github.com/honyoP/portfolio-web" path={path} display="inline-flex" alignItems="center" style={{gap:4}}>
                 <IconBrandGithub size="20px"/> Source
               </LinkItem>
